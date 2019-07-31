@@ -1,0 +1,22 @@
+15
+Is the pizza older than an hour?
+Does it have pepperoni?
+Was it in the freezer?
+What about bacon?
+Does it have cheese?
+Was it vacu-sealed?
+Was the freezer turned on?
+This pizza is not delicious
+Yum! Delicious pizza
+Thats gross pizza
+Its a delicious pizza!
+Uh oh, its not delicious
+Its probably still good
+Yikes! Best to throw it out.
+Its certainly still delicious
+3 7 8
+4 9 10
+5 11 12
+1 3 4
+2 5 6
+0 1 2

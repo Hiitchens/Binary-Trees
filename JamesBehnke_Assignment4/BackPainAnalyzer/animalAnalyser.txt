@@ -1,0 +1,20 @@
+13
+Is it furry?
+Does it have scales?
+Is it cute?
+Does it have legs?
+Does it slither?
+Does it have more than 4 legs?
+Its a cat!
+Its a snail!
+Its a millipede
+That is a worm
+A snake!!
+Its a rat
+Yikes! A tarantula!
+3 7 8
+4 9 10
+5 11 12
+1 3 4
+2 5 6
+0 1 2

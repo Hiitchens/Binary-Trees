@@ -1,0 +1,20 @@
+13
+Would you like a car? No for truck
+4x4 feature?
+Full Service package?
+Automatic windows?
+Custom Rims?
+Convertible?
+Thanks for ordering!
+Great Value truck!
+Awesome choice! Your truck with automatic windows will arrive shortly.
+Come get your 4x4 truck!
+Come in to complete your colour selection
+Great value car!
+Nice breezy car!
+3 7 8
+4 9 10
+5 11 12
+1 3 4
+2 5 6
+0 1 2
